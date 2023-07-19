@@ -37,5 +37,5 @@ To use the Note App, follow these steps:
 5. Search for specific notes by entering keywords or phrases in the search bar.
 
 
-
+<hr>
 We hope you find the Note App helpful for managing your notes effectively! 📝✨
