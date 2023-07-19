@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">یادداشت ها</string>
+    <string name="my_notes">یادداشت های من</string>
+    <string name="search_notes">جستجوی نوشته</string>
+    <string name="note_title">عنوان</string>
+    <string name="note_subtitle">خلاصه</string>
+    <string name="type_note_here">اینجا بنویسید</string>
+    <string name="miscellaneous">ابزار</string>
+    <string name="pick_color">انتخاب رنگ</string>
+    <string name="add_image">اضافه  کردن عکس</string>
+    <string name="add_url">اضافه کردن پیوند</string>
+    <string name="enter_url">پیوند را وارد کنید</string>
+    <string name="add">اضافه کردن</string>
+    <string name="cancel">لغو</string>
+    <string name="delete_note">حذف یادداشت</string>
+    <string name="are_ypu_sure_you_want_tp_delete_note">آیا از حذف این یادداشت مطمئن هستید؟</string>
+    <string name="please_enter_title">لطفا عنوان را وارد کنید</string>
+    <string name="please_enter_note">لطفا یادداشتی بنویسید</string>
+    <string name="permission_dined">دسترسی رد شد</string>
+    <string name="enter_url_input">لطفا پیوند را وارد کنید</string>
+    <string name="enter_valid_url">لینک وارد شده صحیح نیست</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">notes</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Note SubTitle</string>
+    <string name="type_note_here">Type note here</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pick_color">Pick color</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_url">Add URL</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="are_ypu_sure_you_want_tp_delete_note">Are you sure you want to delete note</string>
+    <string name="please_enter_title">please enter title</string>
+    <string name="notes">NOTES</string>
+    <string name="please_enter_note">please enter note</string>
+    <string name="permission_dined">Permission dined</string>
+    <string name="enter_url_input">Enter Url</string>
+    <string name="enter_valid_url">Enter valid Url</string>
+</resources>
