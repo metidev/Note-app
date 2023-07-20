@@ -16,13 +16,15 @@ The Note App is an Android application developed in Java using Android Studio. T
 To use the Note App, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-``https://github.com/metidev/noteApp``
+```
+https://github.com/metidev/noteApp
+```
 
-2. Open the project in Android Studio.
+3. Open the project in Android Studio.
 
-3. Connect your Android device or emulator.
+4. Connect your Android device or emulator.
 
-4. Build and run the app from Android Studio onto your device/emulator.
+5. Build and run the app from Android Studio onto your device/emulator.
 
 ## Usage
 
